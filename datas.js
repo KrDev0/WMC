@@ -2,7 +2,7 @@
     {
         "Edition": "Windows 10 Pro 21h2 (x86)",
         "Size": "3.24 GB",
-        "Server": "GitHub"
+        "Server": "https://github.com/KrDev0/HBiblia/raw/main/BJPE"
     },
     {
         "Edition": "Windows 10 Pro 21h2 (x64)",
