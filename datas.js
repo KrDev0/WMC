@@ -1,52 +1,11 @@
 [
     {
-        "Edition": "Windows 10 Pro 21h2 (x86)",
+        "Edition": "MiniOS 11 Pro",
+        "Windows": "Windows 11 23H2",
+        "Arch": "x64",
+        "Version": "v2024.02",
+        "Develooper": "Doofy's",
         "Size": "3.24 GB",
-        "Server": "https://github.com/KrDev0/HBiblia/raw/main/BJPE"
-    },
-    {
-        "Edition": "Windows 10 Pro 21h2 (x64)",
-        "Size": "3.24 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Home 21h2 (x86)",
-        "Size": "3.10 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Home 21h2 (x64)",
-        "Size": "3.10 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Enterprice 21h2 (x86)",
-        "Size": "3.50 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Enterprice 21h2 (x64)",
-        "Size": "3.50 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Pro N 21h2 (x86)",
-        "Size": "3.05 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Pro N 21h2 (x64)",
-        "Size": "3.05 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Home N 21h2 (x86)",
-        "Size": "3.00 GB",
-        "Server": "GitHub"
-    },
-    {
-        "Edition": "Windows 10 Home N 21h2 (x64)",
-        "Size": "3.00 GB",
         "Server": "GitHub"
     }
 ]
