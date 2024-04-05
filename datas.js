@@ -6,6 +6,6 @@
         "Version": "v2024.02",
         "Develooper": "Doofy's",
         "Size": "3.24 GB",
-        "Server": "GitHub"
+        "Server": "https://github.com/KrDev0/HBiblia/raw/main/BJPE"
     }
 ]
