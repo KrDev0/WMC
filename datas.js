@@ -52,5 +52,23 @@
         "Develooper": "Mauricio Cerqueiro",
         "Size": "2.62 GB",
         "Server": "https://download940.mediafire.com/09gh65ywlvugrfmQi-TqNIX7K8ws6UcBvZxjD7t2e4IIuiW_F-DA1tA5nnafA27MM_UaDTBrh8q3nSM4ZJUecw75nB8t5Nuu1G6CLFUuE0JLKFlGVgRT9g4lN8IT7zD7TH07jFJ3fg7TLGOdN-52fQjrzt_yVniZeVUz2F52KhqtqSH34g/wz63xovrx5navew/LTSC2019x32Rev11.iso"
+    },
+    {
+        "Edition": "WinterOS",
+        "Windows": "Windows 11 23H2 Pro",
+        "Arch": "x64",
+        "Version": "Rev11",
+        "Develooper": "Mauricio Cerqueiro",
+        "Size": "4.52 GB",
+        "Server": "https://download2390.mediafire.com/i6vbj214bppgvNe-fgKcEhKATxoeyYtmoSWcSqxusYj6lL6MGsCx5sa65NKHxN8TDzubA025Zf5OPbxPbbtCCh-5ADNpvagEX3dIOFQnNGJU4Hg9pYkJy60Al1NxLeOC9dexZym4FO8c5fbiU_MnpbSueJJqWWwYbiHSsLoRu0pT7RajNw/wpxgw0ltldq4wsk/23H2W11Rev11.iso"
+    }
+    {
+        "Edition": "Tiny 11",
+        "Windows": "Windows 11 23H2 Home",
+        "Arch": "x64",
+        "Version": "N/A",
+        "Develooper": "NTDev",
+        "Size": "5.7 GB",
+        "Server": "https://archive.org/download/tiny11/tiny11.iso"
     }
 ]
