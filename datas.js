@@ -61,7 +61,7 @@
         "Develooper": "Mauricio Cerqueiro",
         "Size": "4.52 GB",
         "Server": "https://download2390.mediafire.com/i6vbj214bppgvNe-fgKcEhKATxoeyYtmoSWcSqxusYj6lL6MGsCx5sa65NKHxN8TDzubA025Zf5OPbxPbbtCCh-5ADNpvagEX3dIOFQnNGJU4Hg9pYkJy60Al1NxLeOC9dexZym4FO8c5fbiU_MnpbSueJJqWWwYbiHSsLoRu0pT7RajNw/wpxgw0ltldq4wsk/23H2W11Rev11.iso"
-    }
+    },
     {
         "Edition": "Tiny 11",
         "Windows": "Windows 11 23H2 Home",
